@@ -73,3 +73,26 @@ Defines the deterministic styling rules automation systems must follow when gene
 - Global styling rules (grid, spacing, typography, palette, motion)
 
 Full document: [UI_STYLING_CONTRACT.md](UI_STYLING_CONTRACT.md)
+
+---
+
+## 4. Contributing Guide
+
+**Purpose:**  
+Explains how to write, review, and submit instruction files in compliance with JMCS deterministic standards.
+
+**Key Concepts:**
+
+- One instruction file per layer — no mixing concerns
+- All fields, rules, and styling must be explicit
+- Peer review required before automation runs
+- Breaking changes must be documented and communicated
+
+**Covers:**
+
+- Per‑file‑type contribution checklists (DB, API, UI)
+- Five‑step review process
+- Submission and change management guidance
+- Common mistakes to avoid
+
+Full document: [CONTRIBUTING.md](CONTRIBUTING.md)
